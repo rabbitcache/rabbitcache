@@ -1,4 +1,8 @@
-[helloworld2](https://github.com/rabbitcache/rabbitcache/assets/98623124/a6bc79a3-ec98-413a-a3b0-d5649b2de48a)
+<p align=”center”>
+
+<img width=”200" height=”200" src=”[helloworld](https://github.com/rabbitcache/rabbitcache/assets/98623124/e698651c-8e22-4595-9d7e-de02d2be7d8c" alt=”my banner”>
+
+</p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif">
 - 🔭 I’m currently working on **starting the Spring Semester**
 
