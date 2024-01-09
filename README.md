@@ -1,6 +1,7 @@
 <p align=”center”><img src="https://github.com/rabbitcache/rabbitcache/assets/98623124/e698651c-8e22-4595-9d7e-de02d2be7d8c" alt=”my banner"/>
 </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif">
+
 - 🔭 I’m currently working on **starting the Spring Semester**
 
 - 🌱 I’m currently learning **Java & SQL**
