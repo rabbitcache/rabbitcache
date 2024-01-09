@@ -1,6 +1,6 @@
-![helloworld2](https://github.com/noolpoodle/noolpoodle/assets/98623124/6f0ff4a7-4848-414f-99c2-5cf88f0b4045)
+[helloworld2](https://github.com/noolpoodle/noolpoodle/assets/98623124/6f0ff4a7-4848-414f-99c2-5cf88f0b4045)
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif">
-- 🔭 I’m currently working on **Data Structures homework**
+- 🔭 I’m currently working on **starting the Spring Semester**
 
 - 🌱 I’m currently learning **Java & SQL**
 
