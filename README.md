@@ -2,9 +2,9 @@
 </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif">
 
-- 🔭 I’m currently working on **starting the Spring Semester**
+- 🔭 I’m currently **looking for Summer work**
 
-- 🌱 I’m currently learning **Java & SQL**
+- 🌱 I’m currently working on **Java & SQL**
 
 - 📚 Classes This Semester: **Database Management Systems, Algorithms & Data Structures, and Language & Culture**
 
