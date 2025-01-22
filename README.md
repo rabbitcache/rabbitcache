@@ -2,11 +2,11 @@
 </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif">
 
-- 🔭 I’m currently **studying for my fall semester**
+- 🔭 I’m currently **studying for my Spring semester**
 
 - 🌱 I’m currently working on **Java**
 
-- 📚 Classes This Semester: **MVC Architecture Based Web Application Design, Organization of Programming Languages, and Parallel and Distributed Algorithms**
+- 📚 Classes This Semester: **Capstone Project, Networks & Security, and Operating Systems **
 
 - 📫 How to reach me **nicole.golden@go.minneapolis.edu**
 
